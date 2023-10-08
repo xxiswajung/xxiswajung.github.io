@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+h2{
+    color : white;
+    background: skyblue;
+    text-align: center;
+    font-family: "Times New Roman";
+}
+
+table{
+    text-align: center;
+    font-family: "Verdana";
+}
