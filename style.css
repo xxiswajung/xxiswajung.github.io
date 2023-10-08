@@ -7,8 +7,8 @@ h2{
     font-family: "Times New Roman";
 }
 img{
-    width: 400px;
-    height: 500px;
+    width: 200px;
+    height: 300px;
 }
 table{
     text-align: center;
@@ -17,6 +17,6 @@ table{
     border-collapse: collapse;
 }
 
-th, td{
+tr, td{
     border: 1px soild #444444;
 }
