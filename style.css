@@ -17,9 +17,9 @@ img{
 table{
     text-align: center;
     font-family: "Verdana";
-    border: 2px solid #444444;
+    border: 1px solid #444444;
 }
 
 tr, td{
-    border: 2px soild #444444;
+    border: 1px solid #444444;
 }
