@@ -1,7 +1,7 @@
 ---
 title: "StoryStash"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: projects
 ---
 ## Skill Sets
 - Ruby on Rails, PostgreSQL, AWS Elastic Beanstalk, Tsung, Docker, Git
