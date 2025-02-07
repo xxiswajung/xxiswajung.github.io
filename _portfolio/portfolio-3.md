@@ -1,7 +1,7 @@
 ---
 title: "VELCRO"
-# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+excerpt: "Neural Network Specification Web service for non-experts<br/>"
+collection: projects
 ---
 ## Skill Sets
 - Python, Javascript, React.js, Django, PostgreSQL, Docker, Git
