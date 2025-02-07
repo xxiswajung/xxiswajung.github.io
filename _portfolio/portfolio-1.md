@@ -1,7 +1,16 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "LitSummarizer"
+# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+## Skill Sets
+- OpenAI API, Python, Pandas, Git
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Descriptions
+- Developed an automated literature review tool, ‘LitSummarizer’, using OpenAI API to summarize research papers
+- Extracted and cleaned text from research papers, removing irrelevant elements and standardizing formatting for academic
+literature reviews
+- Boosted research productivity by simplifying large-scale paper analysis and key finding extraction
+
+## Link
+You can check the code from [here](https://github.com/xxiswajung/LitSummarizer)
